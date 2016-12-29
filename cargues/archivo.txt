@@ -1,0 +1,3 @@
+123|Jorge|Pérez Campos|27
+456|Pedro|Diez Santamarta|52
+789|Luis|Ruiz Campos|27
