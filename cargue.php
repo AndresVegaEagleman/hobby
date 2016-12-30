@@ -36,7 +36,7 @@ echo $insert."<br>";
                 </td>
                 <td>&nbsp;&nbsp;</td>
             </tr>
-          <!--esto es una prueba-->
+          <!--esto es una prueba lalala-->
             <tr>
                 <td>&nbsp;&nbsp;</td>
                 <td><input type="submit" name="button" id="button" value="Guardar" class="boton"/></td>
