@@ -1,6 +1,6 @@
 <?php 
 include("conexion/conexion.php");
-
+//otra prueba
 $rutaEnSeervidor = "";
 $rutaTemporal = $_FILES['archivotxt']['tmp_name'];
 $nombrearchivo = $_FILES['archivotxt']['name'];
